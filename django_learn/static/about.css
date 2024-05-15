@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #4e7eaf;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 40px;
+    text-align: center;
+    background-color: #ffffff; /* White container background */
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1); /* Subtle box shadow */
+}
+h1 {
+    color: #1f4e79; /* Dark blue heading */
+}
+p {
+    color: #4e6c88; /* Gray paragraph text */
+    margin-bottom: 20px;
+}
+.content {
+    text-align: left;
+}
